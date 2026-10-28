@@ -1,0 +1,19 @@
+# Laravel & Back-End
+/vendor
+.env
+.env.backup
+/storage/*.key
+/public/hot
+/public/storage
+
+# Node & Front-End
+/node_modules
+/public/build
+npm-debug.log
+yarn-error.log
+
+# Hệ điều hành & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
